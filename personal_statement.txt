@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+personal statement
+개발자로서 포부
+=======
+자기소개
+>>>>>>> sub2
